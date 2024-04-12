@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zenkite-418817",
+  "private_key_id": "9ab1b77c0afb801d8c244e147104261450784088",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCw3LQsv6HWpydq\n6HNANb87DLNFBNx2OZ4zszC0b6DQdDt/t1bmOkM9HsBNvdSd+XE6mplbienGRXuU\n+TcNuBYfYevawSgmbN19SgdT2W4do12jm3hARqkeeqcX1xTkDSm2seg0QPjyL4Ik\nCDVZmACINxbqTZQl2gu0fXItiaqDgJ2qwpn9iW2hqjVw9bPGv8r/I7rj9fhM/38J\nEE6XaafIFBG5w4VXruM0Mh8BxcQLzX1XP5xQ88SxbaGaFXTWVdFiFQBsPXLDBrAF\nEiZhTNZ8kvlrsFo+slpzniAfdSHmClXgGgzp8+S6u4+7vjOCF1egSqmzVOz0wVW5\nU2oXdt/NAgMBAAECggEAFg5gFdiMKUXNP6LfhJlvUMDjtm7Fw6Sp2w60uzvUlUp5\nhRLrLmkDq6KjHs7WriDGgyV2jJjlY4mUwN5XhEl50M4YaL5/8FLRSGesBEPwXJfb\n/KRN2c42Fwv6vJlhDJOrqRIEwEd+BE3yb+XqKVMwdcxQ+kVUfWf037xpOc6aSi3R\npVJskoWy0LoWhuTeHWNYE3Suj3ZSd8jtSiU+blpWNFFSSstCp4Fi7Ujd1JjM5/If\nZfyhkL46NYT/auFClxQggHEud5S2nDc47YB4fmdLNuFty9ZtSBFScKWzlOEsAMzu\no210UhSmBWNo2xnbOptuH4IJqcW49V1mfP7mxT/uzQKBgQDrKCcC9lJzEsbsY7yE\nF+q9gkQeeLy3S+d8lHjHTCIUTGit1rJJwAm4jU2NF92HLyfCgewaUP2fBJ5UosOh\ntribuAOT1BrO2Lh7wPTBxRelyLVqXLT1Kf/P/fq6ZRA/kdpSwE4MZK+8FP4WNK3z\nzcooqyZdFyCYVlwPMuaYrpJsdwKBgQDAic9OlKDGrK2/O4mHUNGPs8onjK4O6n9v\nRJ7G/FKNiug7IfIljG4ui9Yob5KN9tUMLL8tgs196zq1PjZ/IwmBUm/tboh+3N+R\nbaLb5AmJ12WCXVAebss1CysMcLseeB3c1i+NpMcdluE0yipkln42OfPefFZS9LWn\nbMp65FAa2wKBgHVzd5CuMN4SydI1ummLfI4sqxNBIJi4S6VYjr6UEw1qYHo7Go9l\nYDWSNeK7wcSMU+J9e8xlGVe8OcxyAx4ZIjl8fiTusnkPm40MAfNqGnaOObYnGaa9\n1GwxIXLJmYT2t0HPlOvxuihJn+K9awizhz4qxZ2HOJt9vrtEpBIsVyvfAoGBALZe\nEdDRcJOeHZgjkXls8IGXfuQFGRyhuoCu02GQv7S3nI3d8ljkcbx+0SNNwtfasyMs\nAwzddzxMoTforH+xtSAb8E5JQto+5Tf/S6HRlcNNFSXssqWQtcMRR/4pjOMoTMjO\nyw3zxHHfZoK09oB+Fx/PtpDG3pEGnkTuA79xH/q/AoGBAI1RZ83Y0X/u2nbhJwlp\nzBn3fKDJE8Dom65HXi9UfDbLmvjXfszysBXe3H/4WAiSRduPUskPkncwiNc8j6Yg\n1HWX1YVJ21er+6psxzg4DF+iRoVxxLEBVa0XzXNvNzCnheGgZ0mkhm6GB0WvUv9K\npC1ZuiOSM9tceAAlV5d2D5YV\n-----END PRIVATE KEY-----\n",
+  "client_email": "windbud@zenkite-418817.iam.gserviceaccount.com",
+  "client_id": "101557414007517550390",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/windbud%40zenkite-418817.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
